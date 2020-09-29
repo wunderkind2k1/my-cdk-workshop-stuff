@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@aws-cdk/assert@1.64.1":
+"@aws-cdk/assert@^1.64.1":
   version "1.64.1"
   resolved "https://registry.yarnpkg.com/@aws-cdk/assert/-/assert-1.64.1.tgz#c977a5ef856b67a79d42a4b20b7e9c378a3ee0f5"
   integrity sha512-BbiJvaapBoCJR0KvB5b/lEZxfxBceBufYDt0xGJlYKkjM+j271sLT44GRzgTwNMeCL0GiLDnJwb4asNhdSjPDA==
@@ -923,7 +923,7 @@
   dependencies:
     "@types/istanbul-lib-report" "*"
 
-"@types/jest@26.x", "@types/jest@^26.0.10":
+"@types/jest@26.x", "@types/jest@^26.0.14":
   version "26.0.14"
   resolved "https://registry.yarnpkg.com/@types/jest/-/jest-26.0.14.tgz#078695f8f65cb55c5a98450d65083b2b73e5a3f3"
   integrity sha512-Hz5q8Vu0D288x3iWXePSn53W7hAjP0H7EQ6QvDO9c7t46mR0lNOLlfuwQ+JkVxuhygHzlzPX+0jKdA3ZgSh+Vg==
